@@ -1,2 +1,3 @@
-# prototype
-DemoSquare's mockups
+# Prototype
+
+DemoSquare's mockups: https://protytpe.demosquare.ch
